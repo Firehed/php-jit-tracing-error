@@ -1,0 +1,15 @@
+{
+    "name": "firehed/jit-fail-repro",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Stern",
+            "email": "eric@ericstern.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "7.4.0",
+        "guzzlehttp/psr7": "2.1.0"
+    }
+}
